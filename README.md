@@ -8,3 +8,4 @@ See also:
 * [Java annotations for design patterns?](https://stackoverflow.com/questions/127411/java-annotations-for-design-patterns/3350427)
 * [PatternNotes provides Java annotations for Design Patterns](https://code.google.com/p/patternnotes/)
 * [IntelliJ Inspection for inappropriate use of Singleton](https://github.com/stokito/IdeaSingletonInspection)
+* [Design Patterns](https://github.com/iluwatar/java-design-patterns) Implementation and explanation of the most common design patterns
