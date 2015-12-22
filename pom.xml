@@ -19,8 +19,8 @@
     </licenses>
     <scm>
         <url>https://github.com/stokito/jpatterns-annotations-processor</url>
-        <connection>scm:git://github.com/stokito/jpatterns-annotations-processor.git</connection>
-        <developerConnection>scm:git@github.com:stokito/jpatterns-annotations-processor.git</developerConnection>
+        <connection>scm:git:git://github.com/stokito/jpatterns-annotations-processor.git</connection>
+        <developerConnection>scm:git:git@github.com:stokito/jpatterns-annotations-processor.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     <issueManagement>
